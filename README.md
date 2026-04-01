@@ -4,7 +4,9 @@ So basically I made this for schools that want students to check their results o
 
 The cool part? It picks up ALL exams automatically. If a student has mid term + final + unit test — all three show up side by side in one report card. No config needed, it just works.
 
-**Video tutorial:** https://youtu.be/oj50OkvIw6g
+**Video tutorial:**
+
+[![Watch on YouTube](https://img.youtube.com/vi/oj50OkvIw6g/maxresdefault.jpg)](https://youtu.be/oj50OkvIw6g)
 
 ## What you get
 
