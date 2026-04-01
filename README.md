@@ -6,7 +6,7 @@ The cool part? It picks up ALL exams automatically. If a student has mid term + 
 
 **Video tutorial:**
 
-[![Watch on YouTube](https://img.youtube.com/vi/oj50OkvIw6g/maxresdefault.jpg)](https://youtu.be/oj50OkvIw6g)
+[![Watch on YouTube](https://img.youtube.com/vi/oj50OkvIw6g/hqdefault.jpg)](https://youtu.be/oj50OkvIw6g)
 
 ## What you get
 
